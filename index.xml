@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home</title>
+    <link>https://spavon.github.io/</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://spavon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://spavon.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://spavon.github.io/about/</guid>
+      <description>Currently I&amp;rsquo;m seeking new opportunities in full stack web development and to further my existing skills with Linux systems. I&amp;rsquo;ve been participating in online courses to better understand full stack development for building websites from the ground up. I decided to move into web development after seven years of providing technical support in client-facing and B2B circumstances. My various support roles have allowed me opportunities to test and upgrade software, support large data centers, administrate user accounts, and plan server implementations in live production environments.</description>
+    </item>
+    
+  </channel>
+</rss>
