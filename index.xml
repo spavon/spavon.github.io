@@ -6,9 +6,20 @@
     <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 03 Jan 2019 15:33:20 -0500</lastBuildDate>
     
 	<atom:link href="https://spavon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Resume</title>
+      <link>https://spavon.github.io/resume/</link>
+      <pubDate>Thu, 03 Jan 2019 15:33:20 -0500</pubDate>
+      
+      <guid>https://spavon.github.io/resume/</guid>
+      <description>Skillset  Languages: Bash, Python, JavaScript, HTML, CSS, Node.js Platforms: Debian, Gentoo, RHEL, CentOS; FreeBSD, OSX; Windows Web Servers: nginx, Apache Database: SolidDB, MySQL, MongoDB Network Tools: tcpdump, nmap, iptables, dnsmasq Cloud: AWS  EXPERIENCE Solutions Engineer StrongArm Technologies &amp;mdash; 2017 - Present
+ Tested and troubleshot client issues from discovery to resolution Provisioned, managed, and maintained various AWS services to maintain data and web server integrity and uptime Managed updates and data transfer for thousands of network enabled devices remotely through SaltStack Administered user and client accounts for various application services Configured Jira ticketing system to be used by clients for issue tracking and resolution Provisioned, managed, and maintained client accounts  Technical Support Engineer III Ericsson, Inc — 2013 - 2017</description>
+    </item>
     
     <item>
       <title>About me</title>
