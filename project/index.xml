@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Home</title>
+    <link>https://spavon.github.io/project/</link>
+    <description>Recent content in Projects on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Jan 2019 22:32:31 -0500</lastBuildDate>
+    
+	<atom:link href="https://spavon.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Yelpcamp</title>
+      <link>https://spavon.github.io/project/yelpcamp/</link>
+      <pubDate>Tue, 01 Jan 2019 23:10:39 -0500</pubDate>
+      
+      <guid>https://spavon.github.io/project/yelpcamp/</guid>
+      <description>A simple site to talk about Camp sites. Built with Node.js, Express, Bootstrap, and MongoDB. It has some basic funtionality and I&amp;rsquo;m working on adding more features.</description>
+    </item>
+    
+  </channel>
+</rss>
